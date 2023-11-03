@@ -1,0 +1,60 @@
+/* styles.css */
+
+/* Apply styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the main heading */
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    background-color: #2980b9;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-top: -10px;
+}
+
+h2{
+    margin-left: 10px;
+}
+
+#part1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+
+.list-opt {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    .opt {
+      margin-right: 10px;
+      background-color: rgb(187, 221, 243);
+      padding: 5px;
+      border-radius: 2px;
+  }
+  }
+
+
+.sub{
+    background-color: rgb(187, 221, 243);
+    padding: 5px ;
+    border: 0px;
+    border-radius: 2px;
+}
